@@ -18,7 +18,8 @@
     "homepage": "https://github.com/earlephilhower/ESP8266Audio",
     "dependencies": {
         "ESP8266Spiram": "1.0",
-        "SPI": "1.0"
+        "SPI": "1.0",
+        "HttpClient": "2.2.0"
     },
     "frameworks": "Arduino",
     "examples": [
